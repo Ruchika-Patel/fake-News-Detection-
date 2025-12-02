@@ -1,0 +1,9 @@
+run command :- python train_model.py
+python app.py
+
+Dataset  Name : Fake News.csv
+
+Overview of Fake News Detection
+
+Fake News Detection is a technique used to automatically identify whether a news article, headline, or social media post is real or fake. It uses Natural Language Processing (NLP) and Machine Learning to analyze the text, detect misleading patterns, and classify information. The system processes the data by cleaning text, extracting features (like word frequency, sentiment, writing style), and then training models such as Logistic Regression, Naïve Bayes, SVM, Random Forest, or Deep Learning models like LSTM and CNN.
+Its main goal is to reduce misinformation by checking the credibility of online content and providing reliable predictions.
